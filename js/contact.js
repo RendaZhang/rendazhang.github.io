@@ -25,6 +25,9 @@ $(function () {
                 data: $(this).serialize(),
                 dataType: 'json',
                 crossDomain: true,
+                beforeSend:function(){
+                    $('#contact-form').find('.messages').html('<div class="alert alert-info alert-dismissable"><div class="loader"><span>消</span><span>息</span><span>正</span><span>在</span><span>发</span><span>送</span><span>中</span><span>^_^</span></div></div>');
+                },
                 success: function (data)
                 {
                     // data = JSON object that formspree returns
