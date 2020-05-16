@@ -395,7 +395,7 @@
 
 				<div class="col-md-8">
 					<!-- Contact Form -->
-					<form id="contact-form" class="contact-form" method="post" action="form/contact.php">
+					<form id="contact-form" class="contact-form" method="post" action="https://formspree.io/xlepgene" target="_blank">
 						
 						<div class="messages"></div>
 						
@@ -403,7 +403,7 @@
 							<div class="column col-md-6">
 								<!-- Name input -->
 								<div class="form-group">
-									<input type="text" class="form-control" name="InputName" id="InputName" placeholder="你的名字" required="required" data-error="请输入名字">
+									<input type="text" class="form-control" name="name" id="InputName" placeholder="你的名字" required="required" data-error="请输入名字">
 									<div class="help-block with-errors"></div>
 								</div>
 							</div>
@@ -411,7 +411,7 @@
 							<div class="column col-md-6">
 								<!-- Email input -->
 								<div class="form-group">
-									<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="你的邮箱" required="required" data-error="请填入邮箱">
+									<input type="text" class="form-control" id="InputEmail" name="contact" placeholder="你的联系方式" required="required" data-error="请填入联系方式">
 									<div class="help-block with-errors"></div>
 								</div>
 							</div>
@@ -419,7 +419,7 @@
 							<div class="column col-md-12">
 								<!-- Email input -->
 								<div class="form-group">
-									<input type="text" class="form-control" id="InputSubject" name="InputSubject" placeholder="主题" required="required" data-error="请填入主题">
+									<input type="text" class="form-control" id="InputSubject" name="_subject" placeholder="主题" required="required" data-error="请填入主题">
 									<div class="help-block with-errors"></div>
 								</div>
 							</div>
@@ -427,7 +427,7 @@
 							<div class="column col-md-12">
 								<!-- Message textarea -->
 								<div class="form-group">
-									<textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" placeholder="内容描述" required="required" data-error="请填入内容"></textarea>
+									<textarea name="message" id="InputMessage" class="form-control" rows="5" placeholder="内容描述" required="required" data-error="请填入内容"></textarea>
 									<div class="help-block with-errors"></div>
 								</div>
 							</div>
