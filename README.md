@@ -2,6 +2,7 @@
 - Link to my personal web page: https://rendazhang.github.io
 - Here are the few things that you can do on my website:
     + Scroll through everything.
+    + Play a Chinese Song by clicking the button in "About me" section
     + Download my Resume.
     + Contact me directly by my phone number
     + Click on the email address and shoot me an email.
