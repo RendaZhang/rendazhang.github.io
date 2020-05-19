@@ -1,5 +1,6 @@
 ## Welcome to my Personal Website
 - Link to my personal web page: https://rendazhang.github.io
+- My web page design adopted Chinese Style.
 - Here are the few things that you can do on my website:
     + Scroll through everything.
     + Play a Chinese Song by clicking the button in "About me" section
