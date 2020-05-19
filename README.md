@@ -1,5 +1,17 @@
-## 欢迎来到张人大的网站
+## Welcome to my Personal Website
+- Link to my personal web page: https://rendazhang.github.io
+- Here are the few things that you can do on my website:
+    + Scroll through everything.
+    + Download my Resume.
+    + Contact me directly by my phone number
+    + Click on the email address and shoot me an email.
+    + Fill out the form in the contact section, click "Say Hello" button, and then I will receive you message. 😊
+- I built my web page based on Bootstrap Framework, so the web page will adjust itself according to the size of the device's screen you use.
+- The server that I used is "Github Pages" which is free and support only for static web page, so that you might sometimes experience slow-loading problem in China. 
+- If you encounter any problem when you are viewing my web page, contact me directly please, and After all I will be happy helping you. 😄😉
+- If you understand Chinese language, please ignore everything I said here in English and refer to the Chinese guide below. 😳
 ***
+## 欢迎来到我的网站
 ### 网站简述
 - 采用欧美风格设计开发，基于 Bootstrap 框架的静态网页。
 - 服务器使用的是免费的 Github Pages， 速度和性能上会比收费的慢。
@@ -11,7 +23,6 @@
     + 我压缩了 html, css, js 的代码以减少传输的载荷。
     + 压缩图片和降低图片质量，这样也减少了传输的载荷。
     + 使用 JS 代码让所有图片懒加载 -- 延迟了图片加载以加快页面打开速度。
-***
 ### 使用指南
 - 第一次打开会比较慢，所以我加了个开头动画；但因为是静态网页；第二次打开“如果浏览器缓存还在或者路由器有缓存的情况下”会比较快。
 - 经过我的测试，在移动端和 PC 端的浏览器都可以正常打开并使用下载和留言功能。其中下载功能会因为个别浏览器原因而有些延迟，耐心等待或者刷新一下或者重新下载即可。
