@@ -7,7 +7,7 @@
     + Download my Resume.
     + Contact me directly by my phone number
     + Click on the email address and shoot me an email.
-    + Fill out the form in the contact section, click "Say Hello" button, and then I will receive you message. 😊
+    + Fill out the form in the contact section, click "Say Hello" button, and then I will receive your message. 😊
 - I built my web page based on Bootstrap Framework, so the web page will adjust itself according to the size of the device's screen you use.
 - The server that I used is "Github Pages" which is free and support only for static web page, so that you might sometimes experience slow-loading problem in China. 
 - If you encounter any problem when you are viewing my web page, contact me directly please, and After all I will be happy helping you. 😄😉
