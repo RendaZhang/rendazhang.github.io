@@ -16,6 +16,8 @@
 ***
 ## 欢迎来到我的网站
 ### 网站简述
+- 个人网站链接：https://rendazhang.github.io
+- 在中国国内使用这个链接：https://rendazhang.gitee.io
 - 采用欧美风格设计开发，基于 `Bootstrap` 框架的静态网页。
 - 服务器使用的是免费的 `Github Pages`， 速度和性能上会比收费的慢。
 - 新增了音乐播放，简历下载功能和 `Formspree` 私信留言功能, 可以在上面给我留言私信，我会收到的。
